@@ -1,4 +1,4 @@
-# Smart Lighting Automation SystemS
+# Smart Lighting Automation Systems
 
 An intelligent lighting automation system designed to improve energy efficiency using sensors and microcontroller technology. The system automatically controls lighting based on environmental conditions and user interaction.
 
